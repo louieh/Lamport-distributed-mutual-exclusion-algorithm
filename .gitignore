@@ -1,0 +1,11 @@
+.idea
+out
+*.pdf
+*.iml
+*.md
+*.png
+README
+*xlsx
+*.zip
+config-*
+!README.md
