@@ -7,5 +7,4 @@ out
 README
 *xlsx
 *.zip
-config-*
 !README.md
